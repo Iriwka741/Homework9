@@ -13,9 +13,9 @@
 #################################################################
 #2.Даний текстовий файл. Підрахувати кількість слів у ньому.
 
-with open("first_text.txt", "r") as file:
-    content = file.read()
-    words = content.split()
-    word_count = len(words)
-print("Number of words in file:", word_count)
+#ith open("first_text.txt", "r") as file:
+#    content = file.read()
+#    words = content.split()
+#    word_count = len(words)
+#print("Number of words in file:", word_count)
 
